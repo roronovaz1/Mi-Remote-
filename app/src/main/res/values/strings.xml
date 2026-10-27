@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MI Remote</string>
+    <string name="ime_name">MI Remote Keyboard</string>
+    <string name="a11y_desc">Lets your phone move a cursor, click, scroll and press Back or Home on this TV.</string>
+</resources>
